@@ -1,0 +1,7 @@
+Tnere are many commands of git, which are as follows-
+1) to know the version: git --version 
+2) to configure name and email: git config --global user.name "Your_name"
+                                git config --global user.email "your_email.id"
+3) to initialize a repository: git init
+4) to view all files: ls
+5) fir checking the status: git status
